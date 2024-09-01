@@ -7,3 +7,6 @@ When you do that it will write all messages to userReports.json file
 And you can recall that messages from a particular user
 
 You dont need to create userReports.json it will create on by own
+
+Before the usage you need to install following packages by using npm:
+discord.js @discordjs/builders @discordjs/rest discord-api-types
